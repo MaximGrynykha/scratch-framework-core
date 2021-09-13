@@ -1,0 +1,10 @@
+{
+    "name": "ismaxim/scratch-framework-core",
+    "authors": [
+        {
+            "name": "Maxim Grynykha",
+            "email": "maximgrynykha@gmail.com"
+        }
+    ],
+    "require": {}
+}
