@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace Ismaxim\ScratchFrameworkCore;
 
-use app\core\exception\NotFoundException;
+use Ismaxim\ScratchFrameworkCore\exception\NotFoundException;
 
 class Router
 {

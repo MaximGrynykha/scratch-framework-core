@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace Ismaxim\ScratchFrameworkCore\db;
 
-use app\core\Application;
+use Ismaxim\ScratchFrameworkCore\Application;
 use PDO;
 
 class Database

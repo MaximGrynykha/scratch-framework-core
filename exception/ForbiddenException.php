@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exception;
+namespace Ismaxim\ScratchFrameworkCore\exception;
 
 class ForbiddenException extends \Exception 
 {

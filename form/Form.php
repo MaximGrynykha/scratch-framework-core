@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace Ismaxim\ScratchFrameworkCore\form;
 
-use app\core\Model;
+use Ismaxim\ScratchFrameworkCore\Model;
 
 class Form
 {

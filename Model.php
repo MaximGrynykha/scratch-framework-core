@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace Ismaxim\ScratchFrameworkCore;
 
 abstract class Model
 {

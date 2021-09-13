@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace Ismaxim\ScratchFrameworkCore\db;
 
-use app\core\Application;
-use app\core\Model;
+use Ismaxim\ScratchFrameworkCore\Application;
+use Ismaxim\ScratchFrameworkCore\Model;
 
 abstract class DbModel extends Model
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace Ismaxim\ScratchFrameworkCore;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use Ismaxim\ScratchFrameworkCore\db\Database;
+use Ismaxim\ScratchFrameworkCore\db\DbModel;
 
 class Application
 {

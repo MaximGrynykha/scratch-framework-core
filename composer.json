@@ -6,5 +6,10 @@
             "email": "maximgrynykha@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Ismaxim\\ScratchFrameworkCore\\": "."
+        }
+    },
     "require": {}
 }

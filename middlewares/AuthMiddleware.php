@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace Ismaxim\ScratchFrameworkCore\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use Ismaxim\ScratchFrameworkCore\Application;
+use Ismaxim\ScratchFrameworkCore\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace Ismaxim\ScratchFrameworkCore;
 
-use app\core\middlewares\BaseMiddleware;
+use Ismaxim\ScratchFrameworkCore\middlewares\BaseMiddleware;
 
 class Controller
 {

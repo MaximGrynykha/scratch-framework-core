@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\form;
+namespace Ismaxim\ScratchFrameworkCore\form;
 
 class TextareaField extends BaseField
 {

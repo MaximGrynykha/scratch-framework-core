@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace Ismaxim\ScratchFrameworkCore;
 
-use app\core\db\DbModel;
+use Ismaxim\ScratchFrameworkCore\db\DbModel;
 
 abstract class UserModel extends DbModel
 {
